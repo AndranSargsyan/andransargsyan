@@ -3,7 +3,7 @@
 I work with data end-to-end: collecting and cleaning it, building structured models,
 and turning it into dashboards and reports that help teams make better decisions.
 
-Based in Yerevan, Armenia. My background combines hands-on data analytics experience
+My background combines hands-on data analytics experience
 with a degree in marketing, which means I bring both technical and business context
 to the work. I understand not just how to process data, but what it represents and
 why it matters.
